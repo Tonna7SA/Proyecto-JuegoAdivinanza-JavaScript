@@ -1,0 +1,36 @@
+body {
+  margin-top: 120px;
+  text-align: center;
+  background-color: bisque;
+}
+
+h1,h4 {
+  color: #333;
+  font-family: Arial, sans-serif;
+}
+
+p {
+  font-size: 25px;
+}
+
+input {
+  padding: 5px;
+  font-size: 18px;
+  text-align: center;
+}
+
+button {
+  padding: 8px 12px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+#mensaje {
+  color: #333;
+  font-family: Arial, sans-serif;
+  font-size: 25px;
+  margin-top: 20px;
+}
